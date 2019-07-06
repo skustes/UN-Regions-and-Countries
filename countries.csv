@@ -1,250 +1,250 @@
-﻿Global Code,Global Name,Region Code,Region Name,Sub-region Code,Sub-region Name,Intermediate Region Code,Intermediate Region Name,Common Name,Official Name,Capital,Territory of,M49 Code,ISO-alpha3 Code,Least Developed Countries (LDC),Land Locked Developing Countries (LLDC),Small Island Developing States (SIDS),Developed / Developing Countries
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,"""Saint Helena, Ascension, and Tristan da Cunha""","""Saint Helena, Ascension, and Tristan da Cunha""",Jamestown,United Kingdom,654,SHN,,,,Developing
-1,World,142,Asia,34,Southern Asia,,,Afghanistan,Islamic Republic of Afghanistan,Kabul,,4,AFG,x,x,,Developing
-1,World,150,Europe,154,Northern Europe,,,Åland Islands,Åland Islands,Mariehamn,Finland,248,ALA,,,,Developed
-1,World,150,Europe,39,Southern Europe,,,Albania,Republic of Albania,Tirana,,8,ALB,,,,Developed
-1,World,2,Africa,15,Northern Africa,,,Algeria,People's Democratic Republic of Algeria,Algiers,,12,DZA,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,American Samoa,Territory of American Samoa,Pago Pago,USA,16,ASM,,,x,Developing
-1,World,150,Europe,39,Southern Europe,,,Andorra,Principality of Andorra,Andorra la Vella,,20,AND,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Angola,Republic of Angola,Luanda,,24,AGO,x,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Anguilla,Anguilla,The Valley,United Kingdom,660,AIA,,,x,Developing
-1,World,,,,,,,Antarctica,Antarctica,,,10,ATA,,,,
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Antigua and Barbuda,Antigua and Barbuda,St. John's,,28,ATG,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Argentina,Argentine Republic,Buenos Aires,,32,ARG,,,,Developing
-1,World,142,Asia,145,Western Asia,,,Armenia,Republic of Armenia,Yerevan,,51,ARM,,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Aruba,Aruba,Oranjestad,The Netherlands,533,ABW,,,x,Developing
-1,World,9,Oceania,53,Australia and New Zealand,,,Australia,Commonwealth of Australia,Canberra,,36,AUS,,,,Developed
-1,World,150,Europe,155,Western Europe,,,Austria,Republic of Austria,Vienna,,40,AUT,,,,Developed
-1,World,142,Asia,145,Western Asia,,,Azerbaijan,Republic of Azerbaijan,Baku,,31,AZE,,x,,Developing
-1,World,142,Asia,145,Western Asia,,,Bahrain,Kingdom of Bahrain,Manama,,48,BHR,,,,Developing
-1,World,142,Asia,34,Southern Asia,,,Bangladesh,People's Republic of Bangladesh,Dhaka,,50,BGD,x,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Barbados,Barbados,Bridgetown,,52,BRB,,,x,Developing
-1,World,150,Europe,151,Eastern Europe,,,Belarus,Republic of Belarus,Minsk,,112,BLR,,,,Developed
-1,World,150,Europe,155,Western Europe,,,Belgium,Kingdom of Belgium,Brussels,,56,BEL,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Belize,Belize,Belmopan,,84,BLZ,,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Benin,Republic of Benin,Porto-Novo,,204,BEN,x,,,Developing
-1,World,19,Americas,21,Northern America,,,Bermuda,Bermuda,Hamilton,United Kingdom,60,BMU,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,BES Islands,"""Bonaire, Sint Eustatius, and Saba""",Kralendijk,The Netherlands,535,BES,,,x,Developing
-1,World,142,Asia,34,Southern Asia,,,Bhutan,Kingdom of Bhutan,Thimphu,,64,BTN,x,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Bolivia,Plurinational State of Bolivia,La Paz,,68,BOL,,x,,Developing
-1,World,150,Europe,39,Southern Europe,,,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,,70,BIH,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Botswana,Republic of Botswana,Gaborone,,72,BWA,,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Bouvet Island,Bouvet Island,,Norway,74,BVT,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Brazil,Federative Republic of Brazil,Brasília,,76,BRA,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,British Indian Ocean Territory,British Indian Ocean Territory,Camp Justice,United Kingdom,86,IOT,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,British Virgin Islands,British Virgin Islands,Road Town,United Kingdom,92,VGB,,,x,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Brunei,"Nation of Brunei, the Abode of Peace",Bandar Seri Begawan,,96,BRN,,,,Developing
-1,World,150,Europe,151,Eastern Europe,,,Bulgaria,Republic of Bulgaria,Sofia,,100,BGR,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Burkina Faso,Burkina Faso,Ouagadougou,,854,BFA,x,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Burundi,Republic of Burundi,Gitega,,108,BDI,x,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Cabo Verde,Republic of Cabo Verde,Praia,,132,CPV,,,x,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Cambodia,Kingdom of Cambodia,Phnom Penh,,116,KHM,x,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Cameroon,Republic of Cameroon,Yaoundé,,120,CMR,,,,Developing
-1,World,19,Americas,21,Northern America,,,Canada,Canada,Ottawa,,124,CAN,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Cayman Islands,Cayman Islands,George Town,United Kingdom,136,CYM,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Central African Republic,Central African Republic,Bangui,,140,CAF,x,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Chad,Republic of Chad,N'Djamena,,148,TCD,x,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Chile,Republic of Chile,Santiago,,152,CHL,,,,Developing
-1,World,142,Asia,30,Eastern Asia,,,China,People's Republic of China,Beijing,,156,CHN,,,,Developing
-1,World,9,Oceania,53,Australia and New Zealand,,,Christmas Island,Territory of Christmas Island,Flying Fish Cove,Australia,162,CXR,,,,Developed
-1,World,9,Oceania,53,Australia and New Zealand,,,Cocos (Keeling) Islands,Territory of Cocos (Keeling) Islands,West Island,Australia,166,CCK,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Colombia,Republic of Colombia,Bogotá,,170,COL,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Comoros,Union of the Comoros,Moroni,,174,COM,x,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Congo,Republic of the Congo,Brazzaville,,178,COG,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,Cook Islands,Cook Islands,Avarua,New Zealand,184,COK,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Costa Rica,Republic of Costa Rica,San José,,188,CRI,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Côte d’Ivoire,Republic of Côte d'Ivoire,Yamoussoukro,,384,CIV,,,,Developing
-1,World,150,Europe,39,Southern Europe,,,Croatia,Republic of Croatia,Zagreb,,191,HRV,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Cuba,Republic of Cuba,Havana,,192,CUB,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Curaçao,Country of Curaçao,Willemstad,The Netherlands,531,CUW,,,x,Developing
-1,World,142,Asia,145,Western Asia,,,Cyprus,Republic of Cyprus,Nicosia,,196,CYP,,,,Developed
-1,World,150,Europe,151,Eastern Europe,,,Czechia,Czech Republic,Prague,,203,CZE,,,,Developed
-1,World,150,Europe,154,Northern Europe,,,Denmark,Kingdom of Denmark,Copenhagen,,208,DNK,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Djibouti,Republic of Djibouti,Djibouti,,262,DJI,x,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Dominica,Commonwealth of Dominica,Roseau,,212,DMA,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Dominican Republic,Dominican Republic,Santo Domingo,,214,DOM,,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,DRC,Democratic Republic of the Congo,Kinshasa,,180,COD,x,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Ecuador,Republic of Ecuador,Quito,,218,ECU,,,,Developing
-1,World,2,Africa,15,Northern Africa,,,Egypt,Arab Republic of Egypt,Cairo,,818,EGY,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,El Salvador,Republic of El Salvador,San Salvador,,222,SLV,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Equatorial Guinea,Republic of Equatorial Guinea,Malabo,,226,GNQ,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Eritrea,State of Eritrea,Asmara,,232,ERI,x,,,Developing
-1,World,150,Europe,154,Northern Europe,,,Estonia,Republic of Estonia,Tallinn,,233,EST,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Eswatini,Kingdom of Eswatini,Mbabane,,748,SWZ,,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Ethiopia,Federal Democratic Republic of Ethiopia,Addis Ababa,,231,ETH,x,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Falkland Islands,Falkland Islands,Stanley,United Kingdom,238,FLK,,,,Developing
-1,World,150,Europe,154,Northern Europe,,,Faroe Islands,Faroe Islands,Tórshavn,Denmark,234,FRO,,,,Developed
-1,World,9,Oceania,54,Melanesia,,,Fiji,Republic of Fiji,Suva,,242,FJI,,,x,Developing
-1,World,150,Europe,154,Northern Europe,,,Finland,Republic of Finland,Helsinki,,246,FIN,,,,Developed
-1,World,150,Europe,155,Western Europe,,,France,French Republic,Paris,,250,FRA,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,French Guiana,French Guiana,Cayenne,France,254,GUF,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,French Polynesia,French Polynesia,Papeete,France,258,PYF,,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,French Southern Territories,French Southern and Antarctic Lands,Saint-Pierre,France,260,ATF,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Gabon,Gabonese Republic,Libreville,,266,GAB,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Gambia,Republic of The Gambia,Banjul,,270,GMB,x,,,Developing
-1,World,142,Asia,145,Western Asia,,,Georgia,Georgia,Tbilisi,,268,GEO,,,,Developing
-1,World,150,Europe,155,Western Europe,,,Germany,Federal Republic of Germany,Berlin,,276,DEU,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Ghana,Republic of Ghana,Accra,,288,GHA,,,,Developing
-1,World,150,Europe,39,Southern Europe,,,Gibraltar,Gibraltar,Gibraltar,United Kingdom,292,GIB,,,,Developed
-1,World,150,Europe,39,Southern Europe,,,Greece,Hellenic Republic,Athens,,300,GRC,,,,Developed
-1,World,19,Americas,21,Northern America,,,Greenland,Greenland,Nuuk,Denmark,304,GRL,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Grenada,Grenada,St. George's,,308,GRD,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Guadeloupe,Guadeloupe,Basse-Terre,France,312,GLP,,,,Developing
-1,World,9,Oceania,57,Micronesia,,,Guam,Territory of Guam,Hagåtña,USA,316,GUM,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Guatemala,Republic of Guatemala,Guatemala City,,320,GTM,,,,Developing
-1,World,150,Europe,154,Northern Europe,830,Channel Islands,Guernsey,Guernsey,St Peter Port,United Kingdom,831,GGY,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Guinea,Republic of Guinea,Conakry,,324,GIN,x,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Guinea-Bissau,Republic of Guinea-Bissau,Bissau,,624,GNB,x,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Guyana,Co-operative Republic of Guyana,Georgetown,,328,GUY,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Haiti,Republic of Haiti,Port-au-Prince,,332,HTI,x,,x,Developing
-1,World,9,Oceania,53,Australia and New Zealand,,,Heard and McDonald Islands,Territory of Heard and McDonald Islands,,,334,HMD,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Honduras,Republic of Honduras,Tegucigalpa,,340,HND,,,,Developing
-1,World,142,Asia,30,Eastern Asia,,,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,Hong Kong,China,344,HKG,,,,Developing
-1,World,150,Europe,151,Eastern Europe,,,Hungary,Hungary,Budapest,,348,HUN,,,,Developed
-1,World,150,Europe,154,Northern Europe,,,Iceland,Iceland,Reykjavík,,352,ISL,,,,Developed
-1,World,142,Asia,34,Southern Asia,,,India,Republic of India,New Dehli,,356,IND,,,,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Indonesia,Republic of Indonesia,Jakarta,,360,IDN,,,,Developing
-1,World,142,Asia,34,Southern Asia,,,Iran,Islamic Republic of Iran,Tehran,,364,IRN,,,,Developing
-1,World,142,Asia,145,Western Asia,,,Iraq,Republic of Iraq,Baghdad,,368,IRQ,,,,Developing
-1,World,150,Europe,154,Northern Europe,,,Ireland,Republic of Ireland,Dublin,,372,IRL,,,,Developed
-1,World,150,Europe,154,Northern Europe,,,Isle of Man,Isle of Man,Douglas,United Kingdom,833,IMN,,,,Developed
-1,World,142,Asia,145,Western Asia,,,Israel,Israel,Jerusalem,,376,ISR,,,,Developed
-1,World,150,Europe,39,Southern Europe,,,Italy,Italian Republic,Rome,,380,ITA,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Jamaica,Jamaica,Kingston,,388,JAM,,,x,Developing
-1,World,142,Asia,30,Eastern Asia,,,Japan,Japan,Tokyo,,392,JPN,,,,Developed
-1,World,150,Europe,154,Northern Europe,830,Channel Islands,Jersey,Bailiwick of Jersey,Saint Helier,United Kingdom,832,JEY,,,,Developed
-1,World,142,Asia,145,Western Asia,,,Jordan,Hashemite Kingdom of Jordan,Amman,,400,JOR,,,,Developing
-1,World,142,Asia,143,Central Asia,,,Kazakhstan,Republic of Kazakhstan,Nur-Sultan,,398,KAZ,,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Kenya,Republic of Kenya,Nairobi,,404,KEN,,,,Developing
-1,World,9,Oceania,57,Micronesia,,,Kiribati,Republic of Kiribati,Tarawa,,296,KIR,x,,x,Developing
-1,World,142,Asia,145,Western Asia,,,Kuwait,State of Kuwait,Kuwait City,,414,KWT,,,,Developing
-1,World,142,Asia,143,Central Asia,,,Kyrgyzstan,Kyrgyz Republic,Bishkek,,417,KGZ,,x,,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Laos,Lao People's Democratic Republic,Vientiane,,418,LAO,x,x,,Developing
-1,World,150,Europe,154,Northern Europe,,,Latvia,Republic of Latvia,Riga,,428,LVA,,,,Developed
-1,World,142,Asia,145,Western Asia,,,Lebanon,Lebanese Republic,Beirut,,422,LBN,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Lesotho,Kingdom of Lesotho,Maseru,,426,LSO,x,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Liberia,Republic of Liberia,Monrovia,,430,LBR,x,,,Developing
-1,World,2,Africa,15,Northern Africa,,,Libya,State of Libya,Tripoli,,434,LBY,,,,Developing
-1,World,150,Europe,155,Western Europe,,,Liechtenstein,Principality of Liechtenstein,Vaduz,,438,LIE,,,,Developed
-1,World,150,Europe,154,Northern Europe,,,Lithuania,Republic of Lithuania,Vilnius,,440,LTU,,,,Developed
-1,World,150,Europe,155,Western Europe,,,Luxembourg,Grand Duchy of Luxembourg,Luxembourg City,,442,LUX,,,,Developed
-1,World,142,Asia,30,Eastern Asia,,,Macao,Macao Special Administrative Region of the People's Republic of China,Macao,China,446,MAC,,,,Developing
-1,World,150,Europe,39,Southern Europe,,,Macedonia,Republic of North Macedonia,Skopje,,807,MKD,,x,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Madagascar,Republic of Madagascar,Antananarivo,,450,MDG,x,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Malawi,Republic of Malawi,Lilongwe,,454,MWI,x,x,,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Malaysia,Malaysia,Kuala Lumpur,,458,MYS,,,,Developing
-1,World,142,Asia,34,Southern Asia,,,Maldives,Republic of Maldives,Malé,,462,MDV,,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Mali,Republic of Mali,Bamako,,466,MLI,x,x,,Developing
-1,World,150,Europe,39,Southern Europe,,,Malta,Republic of Malta,Valletta,,470,MLT,,,,Developed
-1,World,9,Oceania,57,Micronesia,,,Marshall Islands,Republic of the Marshall Islands,Majuro,,584,MHL,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Martinique,Martinique,Fort-de-France,France,474,MTQ,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Mauritania,Islamic Republic of Mauritania,Nouakchatt,,478,MRT,x,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mauritius,Republic of Mauritius,Port Louis,,480,MUS,,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mayotte,Department of Mayotte,Mamoudzou,France,175,MYT,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Mexico,United Mexican States,Mexico City,,484,MEX,,,,Developing
-1,World,9,Oceania,57,Micronesia,,,Micronesia,Federated States of Micronesia,Palikir,,583,FSM,,,x,Developing
-1,World,150,Europe,155,Western Europe,,,Monaco,Principality of Monaco,Monaco,,492,MCO,,,,Developed
-1,World,142,Asia,30,Eastern Asia,,,Mongolia,Mongolia,Ulaanbaatar,,496,MNG,,x,,Developing
-1,World,150,Europe,39,Southern Europe,,,Montenegro,Montenegro,Podgorica,,499,MNE,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Montserrat,Montserrat,Plymouth,United Kingdom,500,MSR,,,x,Developing
-1,World,2,Africa,15,Northern Africa,,,Morocco,Kingdom of Morocco,Rabat,,504,MAR,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mozambique,Republic of Mozambique,Maputo,,508,MOZ,x,,,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Myanmar,Republic of the Union of Myanmar,Naypyidaw,,104,MMR,x,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Namibia,Republic of Namibia,Windhoek,,516,NAM,,,,Developing
-1,World,9,Oceania,57,Micronesia,,,Nauru,Republic of Nauru,Yaren,,520,NRU,,,x,Developing
-1,World,142,Asia,34,Southern Asia,,,Nepal,Federal Democratic Republic of Nepal,Kathmandu,,524,NPL,x,x,,Developing
-1,World,9,Oceania,54,Melanesia,,,New Caledonia,New Caledonia,Nouméa,,540,NCL,,,x,Developing
-1,World,9,Oceania,53,Australia and New Zealand,,,New Zealand,New Zealand,Wellington,,554,NZL,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Nicaragua,Republic of Nicaragua,Managua,,558,NIC,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Niger,Republic of the Niger,Niamey,,562,NER,x,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Nigeria,Federal Republic of Nigeria,Abuja,,566,NGA,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,Niue,Niue,Alofi,,570,NIU,,,x,Developing
-1,World,9,Oceania,53,Australia and New Zealand,,,Norfolk Island,Territory of Norfolk Island,Kingston,Australia,574,NFK,,,,Developed
-1,World,142,Asia,30,Eastern Asia,,,North Korea,Democratic People's Republic of Korea,Pyongyang,,408,PRK,,,,Developing
-1,World,9,Oceania,57,Micronesia,,,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,USA,580,MNP,,,x,Developing
-1,World,150,Europe,154,Northern Europe,,,Norway,Kingdom of Norway,Oslo,,578,NOR,,,,Developed
-1,World,142,Asia,145,Western Asia,,,Oman,Sultanate of Oman,Muscat,,512,OMN,,,,Developing
-1,World,142,Asia,34,Southern Asia,,,Pakistan,Islamic Republic of Pakistan,Islamabad,,586,PAK,,,,Developing
-1,World,9,Oceania,57,Micronesia,,,Palau,Commonwealth of the Northern Mariana Islands,Ngerulmud,,585,PLW,,,x,Developing
-1,World,142,Asia,145,Western Asia,,,Palestine,State of Palestine,Ramallah,,275,PSE,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Panama,Republic of Panama,Panama City,,591,PAN,,,,Developing
-1,World,9,Oceania,54,Melanesia,,,Papua New Guinea,Independent State of Papua New Guinea,Port Moresby,,598,PNG,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Paraguay,Republic of Paraguay,Asunción,,600,PRY,,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Peru,Republic of Peru,Lima,,604,PER,,,,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Philippines,Republic of the Philippines,Manila,,608,PHL,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,Pitcairn,"Pitcairn, Henderson, Ducie and Oeno Islands",Adamstown,United Kingdom,612,PCN,,,,Developing
-1,World,150,Europe,151,Eastern Europe,,,Poland,Republic of Poland,Warsaw,,616,POL,,,,Developed
-1,World,150,Europe,39,Southern Europe,,,Portugal,Portuguese Republic,Lisbon,,620,PRT,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Puerto Rico,Commonwealth of Puerto Rico,San Juan,USA,630,PRI,,,x,Developing
-1,World,142,Asia,145,Western Asia,,,Qatar,State of Qatar,Doha,,634,QAT,,,,Developing
-1,World,150,Europe,151,Eastern Europe,,,Republic of Moldova,Republic of Moldova,Chişinau,,498,MDA,,x,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Réunion,Réunion,Saint-Denis,France,638,REU,,,,Developing
-1,World,150,Europe,151,Eastern Europe,,,Romania,Romania,Bucharest,,642,ROU,,,,Developed
-1,World,150,Europe,151,Eastern Europe,,,Russia,Russian Federation,Moscow,,643,RUS,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Rwanda,Republic of Rwanda,Kigali,,646,RWA,x,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Barthélemy,Collectivity of Saint-Barthélemy,Gustavia,France,652,BLM,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,Basseterre,,659,KNA,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Lucia,Saint Lucia,Castries,,662,LCA,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Martin,Collectivity of Saint Martin,Marigot,France,663,MAF,,,,Developing
-1,World,19,Americas,21,Northern America,,,Saint Pierre and Miquelon,Overseas Collectivity of Saint Pierre and Miquelon,Saint-Pierre,France,666,SPM,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,,670,VCT,,,x,Developing
-1,World,9,Oceania,61,Polynesia,,,Samoa,Independent State of Samoa,Apia,,882,WSM,,,x,Developing
-1,World,150,Europe,39,Southern Europe,,,San Marino,Republic of San Marino,San Marino,,674,SMR,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,São Tomé,,678,STP,x,,x,Developing
-1,World,150,Europe,154,Northern Europe,830,Channel Islands,Sark,Sark,,United Kingdom,680,,,,,Developed
-1,World,142,Asia,145,Western Asia,,,Saudi Arabia,Kingdom of Saudi Arabia,Riyadh,,682,SAU,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Senegal,Republic of Senegal,Dakar,,686,SEN,x,,,Developing
-1,World,150,Europe,39,Southern Europe,,,Serbia,Republic of Serbia,Belgrade,,688,SRB,,,,Developed
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Seychelles,Republic of Seychelles,Victoria,,690,SYC,,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Sierra Leone,Republic of Sierra Leone,Freetown,,694,SLE,x,,,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Singapore,Republic of Singapore,Singapore,,702,SGP,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Sint Maarten,Sint Maarten,Philipsburg,The Netherlands,534,SXM,,,x,Developing
-1,World,150,Europe,151,Eastern Europe,,,Slovakia,Slovak Republic,Bratislava,,703,SVK,,,,Developed
-1,World,150,Europe,39,Southern Europe,,,Slovenia,Republic of Slovenia,Ljubljana,,705,SVN,,,,Developed
-1,World,9,Oceania,54,Melanesia,,,Solomon Islands,Solomon Islands,Honiara,,90,SLB,x,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Somalia,Federal Republic of Somalia,Mogadishu,,706,SOM,x,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,South Africa,Republic of South Africa,Cape Town,,710,ZAF,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,King Edward Point,United Kingdom,239,SGS,,,,Developing
-1,World,142,Asia,30,Eastern Asia,,,South Korea,Republic of Korea,Seoul,,410,KOR,,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,South Sudan,Republic of South Sudan,Juba,,728,SSD,x,x,,Developing
-1,World,150,Europe,39,Southern Europe,,,Spain,Kingdom of Spain,Madrid,,724,ESP,,,,Developed
-1,World,142,Asia,34,Southern Asia,,,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Jayawardenepura Kotte,,144,LKA,,,,Developing
-1,World,2,Africa,15,Northern Africa,,,Sudan,Republic of the Sudan,Khartoum,,729,SDN,x,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Suriname,Republic of Suriname,Paramaribo,,740,SUR,,,x,Developing
-1,World,150,Europe,154,Northern Europe,,,Svalbard and Jan Mayen Islands,Svalbard and Jan Mayen Islands,,Norway,744,SJM,,,,Developed
-1,World,150,Europe,154,Northern Europe,,,Sweden,Kingdom of Sweden,Stockholm,,752,SWE,,,,Developed
-1,World,150,Europe,155,Western Europe,,,Switzerland,Swiss Confederation,Bern,,756,CHE,,,,Developed
-1,World,142,Asia,145,Western Asia,,,Syria,Syrian Arab Republic,Damascus,,760,SYR,,,,Developing
-1,World,142,Asia,143,Central Asia,,,Tajikistan,Republic of Tajikistan,Dushanbe,,762,TJK,,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Tanzania,United Republic of Tanzania,Dodoma,,834,TZA,x,,,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Thailand,Kingdom of Thailand,Bangkok,,764,THA,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,The Bahamas,Commonwealth of The Bahamas,Nassau,,44,BHS,,,x,Developing
-1,World,150,Europe,155,Western Europe,,,The Netherlands,Kingdom of the Netherlands,Amsterdam,,528,NLD,,,,Developed
-1,World,142,Asia,35,South-eastern Asia,,,Timor-Leste,Democratic Republic of Timor-Leste,Dili,,626,TLS,x,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Togo,Togolese Republic,Lomé,,768,TGO,x,,,Developing
-1,World,9,Oceania,61,Polynesia,,,Tokelau,Tokelau,Nukunonu,,772,TKL,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,Tonga,Kingdom of Tonga,Nuku'alofa,,776,TON,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Trinidad and Tobago,Republic of Trinidad and Tobago,Port of Spain,,780,TTO,,,x,Developing
-1,World,2,Africa,15,Northern Africa,,,Tunisia,Republic of Tunisia,Tunis,,788,TUN,,,,Developing
-1,World,142,Asia,145,Western Asia,,,Turkey,Republic of Turkey,Ankara,,792,TUR,,,,Developing
-1,World,142,Asia,143,Central Asia,,,Turkmenistan,Republic of Turkmenistan,Ashgabat,,795,TKM,,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,United Kingdom,796,TCA,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,Tuvalu,Ellice Islands,Funafuti,,798,TUV,x,,x,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Uganda,Republic of Uganda,Kampala,,800,UGA,x,x,,Developing
-1,World,150,Europe,151,Eastern Europe,,,Ukraine,Ukraine,Kiev,,804,UKR,,,,Developed
-1,World,142,Asia,145,Western Asia,,,United Arab Emirates,United Arab Emirates,Abu Dhabi,,784,ARE,,,,Developing
-1,World,150,Europe,154,Northern Europe,,,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London,,826,GBR,,,,Developed
-1,World,9,Oceania,57,Micronesia,,,United States Minor Outlying Islands,United States Minor Outlying Islands,,USA,581,UMI,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amelie,USA,850,VIR,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Uruguay,Oriental Republic of Uruguay,Montevideo,,858,URY,,,,Developing
-1,World,19,Americas,21,Northern America,,,USA,United States of America,"""Washington, D.C.""",,840,USA,,,,Developed
-1,World,142,Asia,143,Central Asia,,,Uzbekistan,Republic of Uzbekistan,Tashkent,,860,UZB,,x,,Developing
-1,World,9,Oceania,54,Melanesia,,,Vanuatu,Republic of Vanuatu,Port Vila,,548,VUT,x,,x,Developing
-1,World,150,Europe,39,Southern Europe,,,Vatican City,Holy See,Vatican City,,336,VAT,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Venezuela,Bolivarian Republic of Venezuela,Caracas,,862,VEN,,,,Developing
-1,World,142,Asia,35,South-eastern Asia,,,Vietnam,Socialist Republic of Vietnam,Hanoi,,704,VNM,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,Wallis and Futuna Islands,Territory of the Wallis and Futuna Islands,Mata Utu,France,876,WLF,,,,Developing
-1,World,2,Africa,15,Northern Africa,,,Western Sahara,Western Sahara,Tafariti,,732,ESH,,,,Developing
-1,World,142,Asia,145,Western Asia,,,Yemen,Republic of Yemen,Sana'a,,887,YEM,x,,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Zambia,Republic of Zambia,Lusaka,,894,ZMB,x,x,,Developing
-1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Zimbabwe,Republic of Zimbabwe,Harare,,716,ZWE,,x,,Developing
+﻿Global Code,Global Name,Region Code,Region Name,Sub-region Code,Sub-region Name,Intermediate Region Code,Intermediate Region Name,Common Name,Official Name,Capital,M49 Code,ISO-alpha3 Code,Least Developed Countries (LDC),Land Locked Developing Countries (LLDC),Small Island Developing States (SIDS),Developed / Developing Countries
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,"""Saint Helena, Ascension, and Tristan da Cunha""","""Saint Helena, Ascension, and Tristan da Cunha""",Jamestown,654,SHN,,,,Developing
+1,World,142,Asia,34,Southern Asia,,,Afghanistan,Islamic Republic of Afghanistan,Kabul,4,AFG,x,x,,Developing
+1,World,150,Europe,154,Northern Europe,,,Åland Islands,Åland Islands,Mariehamn,248,ALA,,,,Developed
+1,World,150,Europe,39,Southern Europe,,,Albania,Republic of Albania,Tirana,8,ALB,,,,Developed
+1,World,2,Africa,15,Northern Africa,,,Algeria,People's Democratic Republic of Algeria,Algiers,12,DZA,,,,Developing
+1,World,9,Oceania,61,Polynesia,,,American Samoa,Territory of American Samoa,Pago Pago,16,ASM,,,x,Developing
+1,World,150,Europe,39,Southern Europe,,,Andorra,Principality of Andorra,Andorra la Vella,20,AND,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Angola,Republic of Angola,Luanda,24,AGO,x,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Anguilla,Anguilla,The Valley,660,AIA,,,x,Developing
+1,World,,,,,,,Antarctica,Antarctica,,10,ATA,,,,
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Antigua and Barbuda,Antigua and Barbuda,St. John's,28,ATG,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Argentina,Argentine Republic,Buenos Aires,32,ARG,,,,Developing
+1,World,142,Asia,145,Western Asia,,,Armenia,Republic of Armenia,Yerevan,51,ARM,,x,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Aruba,Aruba,Oranjestad,533,ABW,,,x,Developing
+1,World,9,Oceania,53,Australia and New Zealand,,,Australia,Commonwealth of Australia,Canberra,36,AUS,,,,Developed
+1,World,150,Europe,155,Western Europe,,,Austria,Republic of Austria,Vienna,40,AUT,,,,Developed
+1,World,142,Asia,145,Western Asia,,,Azerbaijan,Republic of Azerbaijan,Baku,31,AZE,,x,,Developing
+1,World,142,Asia,145,Western Asia,,,Bahrain,Kingdom of Bahrain,Manama,48,BHR,,,,Developing
+1,World,142,Asia,34,Southern Asia,,,Bangladesh,People's Republic of Bangladesh,Dhaka,50,BGD,x,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Barbados,Barbados,Bridgetown,52,BRB,,,x,Developing
+1,World,150,Europe,151,Eastern Europe,,,Belarus,Republic of Belarus,Minsk,112,BLR,,,,Developed
+1,World,150,Europe,155,Western Europe,,,Belgium,Kingdom of Belgium,Brussels,56,BEL,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Belize,Belize,Belmopan,84,BLZ,,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Benin,Republic of Benin,Porto-Novo,204,BEN,x,,,Developing
+1,World,19,Americas,21,Northern America,,,Bermuda,Bermuda,Hamilton,60,BMU,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,BES Islands,"""Bonaire, Sint Eustatius, and Saba""",Kralendijk,535,BES,,,x,Developing
+1,World,142,Asia,34,Southern Asia,,,Bhutan,Kingdom of Bhutan,Thimphu,64,BTN,x,x,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Bolivia,Plurinational State of Bolivia,La Paz,68,BOL,,x,,Developing
+1,World,150,Europe,39,Southern Europe,,,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,70,BIH,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Botswana,Republic of Botswana,Gaborone,72,BWA,,x,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Bouvet Island,Bouvet Island,,74,BVT,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Brazil,Federative Republic of Brazil,Brasília,76,BRA,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,British Indian Ocean Territory,British Indian Ocean Territory,Camp Justice,86,IOT,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,British Virgin Islands,British Virgin Islands,Road Town,92,VGB,,,x,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Brunei,"Nation of Brunei, the Abode of Peace",Bandar Seri Begawan,96,BRN,,,,Developing
+1,World,150,Europe,151,Eastern Europe,,,Bulgaria,Republic of Bulgaria,Sofia,100,BGR,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Burkina Faso,Burkina Faso,Ouagadougou,854,BFA,x,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Burundi,Republic of Burundi,Gitega,108,BDI,x,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Cabo Verde,Republic of Cabo Verde,Praia,132,CPV,,,x,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Cambodia,Kingdom of Cambodia,Phnom Penh,116,KHM,x,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Cameroon,Republic of Cameroon,Yaoundé,120,CMR,,,,Developing
+1,World,19,Americas,21,Northern America,,,Canada,Canada,Ottawa,124,CAN,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Cayman Islands,Cayman Islands,George Town,136,CYM,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Central African Republic,Central African Republic,Bangui,140,CAF,x,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Chad,Republic of Chad,N'Djamena,148,TCD,x,x,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Chile,Republic of Chile,Santiago,152,CHL,,,,Developing
+1,World,142,Asia,30,Eastern Asia,,,China,People's Republic of China,Beijing,156,CHN,,,,Developing
+1,World,9,Oceania,53,Australia and New Zealand,,,Christmas Island,Territory of Christmas Island,Flying Fish Cove,162,CXR,,,,Developed
+1,World,9,Oceania,53,Australia and New Zealand,,,Cocos (Keeling) Islands,Territory of Cocos (Keeling) Islands,West Island,166,CCK,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Colombia,Republic of Colombia,Bogotá,170,COL,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Comoros,Union of the Comoros,Moroni,174,COM,x,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Congo,Republic of the Congo,Brazzaville,178,COG,,,,Developing
+1,World,9,Oceania,61,Polynesia,,,Cook Islands,Cook Islands,Avarua,184,COK,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Costa Rica,Republic of Costa Rica,San José,188,CRI,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Côte d’Ivoire,Republic of Côte d'Ivoire,Yamoussoukro,384,CIV,,,,Developing
+1,World,150,Europe,39,Southern Europe,,,Croatia,Republic of Croatia,Zagreb,191,HRV,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Cuba,Republic of Cuba,Havana,192,CUB,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Curaçao,Country of Curaçao,Willemstad,531,CUW,,,x,Developing
+1,World,142,Asia,145,Western Asia,,,Cyprus,Republic of Cyprus,Nicosia,196,CYP,,,,Developed
+1,World,150,Europe,151,Eastern Europe,,,Czechia,Czech Republic,Prague,203,CZE,,,,Developed
+1,World,150,Europe,154,Northern Europe,,,Denmark,Kingdom of Denmark,Copenhagen,208,DNK,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Djibouti,Republic of Djibouti,Djibouti,262,DJI,x,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Dominica,Commonwealth of Dominica,Roseau,212,DMA,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Dominican Republic,Dominican Republic,Santo Domingo,214,DOM,,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,DRC,Democratic Republic of the Congo,Kinshasa,180,COD,x,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Ecuador,Republic of Ecuador,Quito,218,ECU,,,,Developing
+1,World,2,Africa,15,Northern Africa,,,Egypt,Arab Republic of Egypt,Cairo,818,EGY,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,El Salvador,Republic of El Salvador,San Salvador,222,SLV,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Equatorial Guinea,Republic of Equatorial Guinea,Malabo,226,GNQ,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Eritrea,State of Eritrea,Asmara,232,ERI,x,,,Developing
+1,World,150,Europe,154,Northern Europe,,,Estonia,Republic of Estonia,Tallinn,233,EST,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Eswatini,Kingdom of Eswatini,Mbabane,748,SWZ,,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Ethiopia,Federal Democratic Republic of Ethiopia,Addis Ababa,231,ETH,x,x,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Falkland Islands,Falkland Islands,Stanley,238,FLK,,,,Developing
+1,World,150,Europe,154,Northern Europe,,,Faroe Islands,Faroe Islands,Tórshavn,234,FRO,,,,Developed
+1,World,9,Oceania,54,Melanesia,,,Fiji,Republic of Fiji,Suva,242,FJI,,,x,Developing
+1,World,150,Europe,154,Northern Europe,,,Finland,Republic of Finland,Helsinki,246,FIN,,,,Developed
+1,World,150,Europe,155,Western Europe,,,France,French Republic,Paris,250,FRA,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,French Guiana,French Guiana,Cayenne,254,GUF,,,,Developing
+1,World,9,Oceania,61,Polynesia,,,French Polynesia,French Polynesia,Papeete,258,PYF,,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,French Southern Territories,French Southern and Antarctic Lands,Saint-Pierre,260,ATF,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Gabon,Gabonese Republic,Libreville,266,GAB,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Gambia,Republic of The Gambia,Banjul,270,GMB,x,,,Developing
+1,World,142,Asia,145,Western Asia,,,Georgia,Georgia,Tbilisi,268,GEO,,,,Developing
+1,World,150,Europe,155,Western Europe,,,Germany,Federal Republic of Germany,Berlin,276,DEU,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Ghana,Republic of Ghana,Accra,288,GHA,,,,Developing
+1,World,150,Europe,39,Southern Europe,,,Gibraltar,Gibraltar,Gibraltar,292,GIB,,,,Developed
+1,World,150,Europe,39,Southern Europe,,,Greece,Hellenic Republic,Athens,300,GRC,,,,Developed
+1,World,19,Americas,21,Northern America,,,Greenland,Greenland,Nuuk,304,GRL,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Grenada,Grenada,St. George's,308,GRD,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Guadeloupe,Guadeloupe,Basse-Terre,312,GLP,,,,Developing
+1,World,9,Oceania,57,Micronesia,,,Guam,Territory of Guam,Hagåtña,316,GUM,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Guatemala,Republic of Guatemala,Guatemala City,320,GTM,,,,Developing
+1,World,150,Europe,154,Northern Europe,830,Channel Islands,Guernsey,Guernsey,St Peter Port,831,GGY,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Guinea,Republic of Guinea,Conakry,324,GIN,x,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Guinea-Bissau,Republic of Guinea-Bissau,Bissau,624,GNB,x,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Guyana,Co-operative Republic of Guyana,Georgetown,328,GUY,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Haiti,Republic of Haiti,Port-au-Prince,332,HTI,x,,x,Developing
+1,World,9,Oceania,53,Australia and New Zealand,,,Heard and McDonald Islands,Territory of Heard and McDonald Islands,,334,HMD,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Honduras,Republic of Honduras,Tegucigalpa,340,HND,,,,Developing
+1,World,142,Asia,30,Eastern Asia,,,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,Hong Kong,344,HKG,,,,Developing
+1,World,150,Europe,151,Eastern Europe,,,Hungary,Hungary,Budapest,348,HUN,,,,Developed
+1,World,150,Europe,154,Northern Europe,,,Iceland,Iceland,Reykjavík,352,ISL,,,,Developed
+1,World,142,Asia,34,Southern Asia,,,India,Republic of India,New Dehli,356,IND,,,,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Indonesia,Republic of Indonesia,Jakarta,360,IDN,,,,Developing
+1,World,142,Asia,34,Southern Asia,,,Iran,Islamic Republic of Iran,Tehran,364,IRN,,,,Developing
+1,World,142,Asia,145,Western Asia,,,Iraq,Republic of Iraq,Baghdad,368,IRQ,,,,Developing
+1,World,150,Europe,154,Northern Europe,,,Ireland,Republic of Ireland,Dublin,372,IRL,,,,Developed
+1,World,150,Europe,154,Northern Europe,,,Isle of Man,Isle of Man,Douglas,833,IMN,,,,Developed
+1,World,142,Asia,145,Western Asia,,,Israel,Israel,Jerusalem,376,ISR,,,,Developed
+1,World,150,Europe,39,Southern Europe,,,Italy,Italian Republic,Rome,380,ITA,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Jamaica,Jamaica,Kingston,388,JAM,,,x,Developing
+1,World,142,Asia,30,Eastern Asia,,,Japan,Japan,Tokyo,392,JPN,,,,Developed
+1,World,150,Europe,154,Northern Europe,830,Channel Islands,Jersey,Bailiwick of Jersey,Saint Helier,832,JEY,,,,Developed
+1,World,142,Asia,145,Western Asia,,,Jordan,Hashemite Kingdom of Jordan,Amman,400,JOR,,,,Developing
+1,World,142,Asia,143,Central Asia,,,Kazakhstan,Republic of Kazakhstan,Nur-Sultan,398,KAZ,,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Kenya,Republic of Kenya,Nairobi,404,KEN,,,,Developing
+1,World,9,Oceania,57,Micronesia,,,Kiribati,Republic of Kiribati,Tarawa,296,KIR,x,,x,Developing
+1,World,142,Asia,145,Western Asia,,,Kuwait,State of Kuwait,Kuwait City,414,KWT,,,,Developing
+1,World,142,Asia,143,Central Asia,,,Kyrgyzstan,Kyrgyz Republic,Bishkek,417,KGZ,,x,,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Laos,Lao People's Democratic Republic,Vientiane,418,LAO,x,x,,Developing
+1,World,150,Europe,154,Northern Europe,,,Latvia,Republic of Latvia,Riga,428,LVA,,,,Developed
+1,World,142,Asia,145,Western Asia,,,Lebanon,Lebanese Republic,Beirut,422,LBN,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Lesotho,Kingdom of Lesotho,Maseru,426,LSO,x,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Liberia,Republic of Liberia,Monrovia,430,LBR,x,,,Developing
+1,World,2,Africa,15,Northern Africa,,,Libya,State of Libya,Tripoli,434,LBY,,,,Developing
+1,World,150,Europe,155,Western Europe,,,Liechtenstein,Principality of Liechtenstein,Vaduz,438,LIE,,,,Developed
+1,World,150,Europe,154,Northern Europe,,,Lithuania,Republic of Lithuania,Vilnius,440,LTU,,,,Developed
+1,World,150,Europe,155,Western Europe,,,Luxembourg,Grand Duchy of Luxembourg,Luxembourg City,442,LUX,,,,Developed
+1,World,142,Asia,30,Eastern Asia,,,Macao,Macao Special Administrative Region of the People's Republic of China,Macao,446,MAC,,,,Developing
+1,World,150,Europe,39,Southern Europe,,,Macedonia,Republic of North Macedonia,Skopje,807,MKD,,x,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Madagascar,Republic of Madagascar,Antananarivo,450,MDG,x,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Malawi,Republic of Malawi,Lilongwe,454,MWI,x,x,,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Malaysia,Malaysia,Kuala Lumpur,458,MYS,,,,Developing
+1,World,142,Asia,34,Southern Asia,,,Maldives,Republic of Maldives,Malé,462,MDV,,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Mali,Republic of Mali,Bamako,466,MLI,x,x,,Developing
+1,World,150,Europe,39,Southern Europe,,,Malta,Republic of Malta,Valletta,470,MLT,,,,Developed
+1,World,9,Oceania,57,Micronesia,,,Marshall Islands,Republic of the Marshall Islands,Majuro,584,MHL,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Martinique,Martinique,Fort-de-France,474,MTQ,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Mauritania,Islamic Republic of Mauritania,Nouakchatt,478,MRT,x,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mauritius,Republic of Mauritius,Port Louis,480,MUS,,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mayotte,Department of Mayotte,Mamoudzou,175,MYT,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Mexico,United Mexican States,Mexico City,484,MEX,,,,Developing
+1,World,9,Oceania,57,Micronesia,,,Micronesia,Federated States of Micronesia,Palikir,583,FSM,,,x,Developing
+1,World,150,Europe,155,Western Europe,,,Monaco,Principality of Monaco,Monaco,492,MCO,,,,Developed
+1,World,142,Asia,30,Eastern Asia,,,Mongolia,Mongolia,Ulaanbaatar,496,MNG,,x,,Developing
+1,World,150,Europe,39,Southern Europe,,,Montenegro,Montenegro,Podgorica,499,MNE,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Montserrat,Montserrat,Plymouth,500,MSR,,,x,Developing
+1,World,2,Africa,15,Northern Africa,,,Morocco,Kingdom of Morocco,Rabat,504,MAR,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mozambique,Republic of Mozambique,Maputo,508,MOZ,x,,,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Myanmar,Republic of the Union of Myanmar,Naypyidaw,104,MMR,x,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Namibia,Republic of Namibia,Windhoek,516,NAM,,,,Developing
+1,World,9,Oceania,57,Micronesia,,,Nauru,Republic of Nauru,Yaren,520,NRU,,,x,Developing
+1,World,142,Asia,34,Southern Asia,,,Nepal,Federal Democratic Republic of Nepal,Kathmandu,524,NPL,x,x,,Developing
+1,World,9,Oceania,54,Melanesia,,,New Caledonia,New Caledonia,Nouméa,540,NCL,,,x,Developing
+1,World,9,Oceania,53,Australia and New Zealand,,,New Zealand,New Zealand,Wellington,554,NZL,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Nicaragua,Republic of Nicaragua,Managua,558,NIC,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Niger,Republic of the Niger,Niamey,562,NER,x,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Nigeria,Federal Republic of Nigeria,Abuja,566,NGA,,,,Developing
+1,World,9,Oceania,61,Polynesia,,,Niue,Niue,Alofi,570,NIU,,,x,Developing
+1,World,9,Oceania,53,Australia and New Zealand,,,Norfolk Island,Territory of Norfolk Island,Kingston,574,NFK,,,,Developed
+1,World,142,Asia,30,Eastern Asia,,,North Korea,Democratic People's Republic of Korea,Pyongyang,408,PRK,,,,Developing
+1,World,9,Oceania,57,Micronesia,,,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,580,MNP,,,x,Developing
+1,World,150,Europe,154,Northern Europe,,,Norway,Kingdom of Norway,Oslo,578,NOR,,,,Developed
+1,World,142,Asia,145,Western Asia,,,Oman,Sultanate of Oman,Muscat,512,OMN,,,,Developing
+1,World,142,Asia,34,Southern Asia,,,Pakistan,Islamic Republic of Pakistan,Islamabad,586,PAK,,,,Developing
+1,World,9,Oceania,57,Micronesia,,,Palau,Commonwealth of the Northern Mariana Islands,Ngerulmud,585,PLW,,,x,Developing
+1,World,142,Asia,145,Western Asia,,,Palestine,State of Palestine,Ramallah,275,PSE,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Panama,Republic of Panama,Panama City,591,PAN,,,,Developing
+1,World,9,Oceania,54,Melanesia,,,Papua New Guinea,Independent State of Papua New Guinea,Port Moresby,598,PNG,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Paraguay,Republic of Paraguay,Asunción,600,PRY,,x,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Peru,Republic of Peru,Lima,604,PER,,,,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Philippines,Republic of the Philippines,Manila,608,PHL,,,,Developing
+1,World,9,Oceania,61,Polynesia,,,Pitcairn,"Pitcairn, Henderson, Ducie and Oeno Islands",Adamstown,612,PCN,,,,Developing
+1,World,150,Europe,151,Eastern Europe,,,Poland,Republic of Poland,Warsaw,616,POL,,,,Developed
+1,World,150,Europe,39,Southern Europe,,,Portugal,Portuguese Republic,Lisbon,620,PRT,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Puerto Rico,Commonwealth of Puerto Rico,San Juan,630,PRI,,,x,Developing
+1,World,142,Asia,145,Western Asia,,,Qatar,State of Qatar,Doha,634,QAT,,,,Developing
+1,World,150,Europe,151,Eastern Europe,,,Republic of Moldova,Republic of Moldova,Chişinau,498,MDA,,x,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Réunion,Réunion,Saint-Denis,638,REU,,,,Developing
+1,World,150,Europe,151,Eastern Europe,,,Romania,Romania,Bucharest,642,ROU,,,,Developed
+1,World,150,Europe,151,Eastern Europe,,,Russia,Russian Federation,Moscow,643,RUS,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Rwanda,Republic of Rwanda,Kigali,646,RWA,x,x,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Barthélemy,Collectivity of Saint-Barthélemy,Gustavia,652,BLM,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,Basseterre,659,KNA,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Lucia,Saint Lucia,Castries,662,LCA,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Martin,Collectivity of Saint Martin,Marigot,663,MAF,,,,Developing
+1,World,19,Americas,21,Northern America,,,Saint Pierre and Miquelon,Overseas Collectivity of Saint Pierre and Miquelon,Saint-Pierre,666,SPM,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,670,VCT,,,x,Developing
+1,World,9,Oceania,61,Polynesia,,,Samoa,Independent State of Samoa,Apia,882,WSM,,,x,Developing
+1,World,150,Europe,39,Southern Europe,,,San Marino,Republic of San Marino,San Marino,674,SMR,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,São Tomé,678,STP,x,,x,Developing
+1,World,150,Europe,154,Northern Europe,830,Channel Islands,Sark,Sark,,680,,,,,Developed
+1,World,142,Asia,145,Western Asia,,,Saudi Arabia,Kingdom of Saudi Arabia,Riyadh,682,SAU,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Senegal,Republic of Senegal,Dakar,686,SEN,x,,,Developing
+1,World,150,Europe,39,Southern Europe,,,Serbia,Republic of Serbia,Belgrade,688,SRB,,,,Developed
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Seychelles,Republic of Seychelles,Victoria,690,SYC,,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Sierra Leone,Republic of Sierra Leone,Freetown,694,SLE,x,,,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Singapore,Republic of Singapore,Singapore,702,SGP,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Sint Maarten,Sint Maarten,Philipsburg,534,SXM,,,x,Developing
+1,World,150,Europe,151,Eastern Europe,,,Slovakia,Slovak Republic,Bratislava,703,SVK,,,,Developed
+1,World,150,Europe,39,Southern Europe,,,Slovenia,Republic of Slovenia,Ljubljana,705,SVN,,,,Developed
+1,World,9,Oceania,54,Melanesia,,,Solomon Islands,Solomon Islands,Honiara,90,SLB,x,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Somalia,Federal Republic of Somalia,Mogadishu,706,SOM,x,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,South Africa,Republic of South Africa,Cape Town,710,ZAF,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,King Edward Point,239,SGS,,,,Developing
+1,World,142,Asia,30,Eastern Asia,,,South Korea,Republic of Korea,Seoul,410,KOR,,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,South Sudan,Republic of South Sudan,Juba,728,SSD,x,x,,Developing
+1,World,150,Europe,39,Southern Europe,,,Spain,Kingdom of Spain,Madrid,724,ESP,,,,Developed
+1,World,142,Asia,34,Southern Asia,,,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Jayawardenepura Kotte,144,LKA,,,,Developing
+1,World,2,Africa,15,Northern Africa,,,Sudan,Republic of the Sudan,Khartoum,729,SDN,x,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Suriname,Republic of Suriname,Paramaribo,740,SUR,,,x,Developing
+1,World,150,Europe,154,Northern Europe,,,Svalbard and Jan Mayen Islands,Svalbard and Jan Mayen Islands,,744,SJM,,,,Developed
+1,World,150,Europe,154,Northern Europe,,,Sweden,Kingdom of Sweden,Stockholm,752,SWE,,,,Developed
+1,World,150,Europe,155,Western Europe,,,Switzerland,Swiss Confederation,Bern,756,CHE,,,,Developed
+1,World,142,Asia,145,Western Asia,,,Syria,Syrian Arab Republic,Damascus,760,SYR,,,,Developing
+1,World,142,Asia,143,Central Asia,,,Tajikistan,Republic of Tajikistan,Dushanbe,762,TJK,,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Tanzania,United Republic of Tanzania,Dodoma,834,TZA,x,,,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Thailand,Kingdom of Thailand,Bangkok,764,THA,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,The Bahamas,Commonwealth of The Bahamas,Nassau,44,BHS,,,x,Developing
+1,World,150,Europe,155,Western Europe,,,The Netherlands,Kingdom of the Netherlands,Amsterdam,528,NLD,,,,Developed
+1,World,142,Asia,35,South-eastern Asia,,,Timor-Leste,Democratic Republic of Timor-Leste,Dili,626,TLS,x,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Togo,Togolese Republic,Lomé,768,TGO,x,,,Developing
+1,World,9,Oceania,61,Polynesia,,,Tokelau,Tokelau,Nukunonu,772,TKL,,,,Developing
+1,World,9,Oceania,61,Polynesia,,,Tonga,Kingdom of Tonga,Nuku'alofa,776,TON,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Trinidad and Tobago,Republic of Trinidad and Tobago,Port of Spain,780,TTO,,,x,Developing
+1,World,2,Africa,15,Northern Africa,,,Tunisia,Republic of Tunisia,Tunis,788,TUN,,,,Developing
+1,World,142,Asia,145,Western Asia,,,Turkey,Republic of Turkey,Ankara,792,TUR,,,,Developing
+1,World,142,Asia,143,Central Asia,,,Turkmenistan,Republic of Turkmenistan,Ashgabat,795,TKM,,x,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,796,TCA,,,,Developing
+1,World,9,Oceania,61,Polynesia,,,Tuvalu,Ellice Islands,Funafuti,798,TUV,x,,x,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Uganda,Republic of Uganda,Kampala,800,UGA,x,x,,Developing
+1,World,150,Europe,151,Eastern Europe,,,Ukraine,Ukraine,Kiev,804,UKR,,,,Developed
+1,World,142,Asia,145,Western Asia,,,United Arab Emirates,United Arab Emirates,Abu Dhabi,784,ARE,,,,Developing
+1,World,150,Europe,154,Northern Europe,,,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London,826,GBR,,,,Developed
+1,World,9,Oceania,57,Micronesia,,,United States Minor Outlying Islands,United States Minor Outlying Islands,,581,UMI,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amelie,850,VIR,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Uruguay,Oriental Republic of Uruguay,Montevideo,858,URY,,,,Developing
+1,World,19,Americas,21,Northern America,,,USA,United States of America,"""Washington, D.C.""",840,USA,,,,Developed
+1,World,142,Asia,143,Central Asia,,,Uzbekistan,Republic of Uzbekistan,Tashkent,860,UZB,,x,,Developing
+1,World,9,Oceania,54,Melanesia,,,Vanuatu,Republic of Vanuatu,Port Vila,548,VUT,x,,x,Developing
+1,World,150,Europe,39,Southern Europe,,,Vatican City,Holy See,Vatican City,336,VAT,,,,Developed
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Venezuela,Bolivarian Republic of Venezuela,Caracas,862,VEN,,,,Developing
+1,World,142,Asia,35,South-eastern Asia,,,Vietnam,Socialist Republic of Vietnam,Hanoi,704,VNM,,,,Developing
+1,World,9,Oceania,61,Polynesia,,,Wallis and Futuna Islands,Territory of the Wallis and Futuna Islands,Mata Utu,876,WLF,,,,Developing
+1,World,2,Africa,15,Northern Africa,,,Western Sahara,Western Sahara,Tafariti,732,ESH,,,,Developing
+1,World,142,Asia,145,Western Asia,,,Yemen,Republic of Yemen,Sana'a,887,YEM,x,,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Zambia,Republic of Zambia,Lusaka,894,ZMB,x,x,,Developing
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Zimbabwe,Republic of Zimbabwe,Harare,716,ZWE,,x,,Developing
