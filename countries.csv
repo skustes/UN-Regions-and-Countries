@@ -4,7 +4,7 @@
 1,World,150,Europe,154,Northern Europe,,,Åland Islands,Åland Islands,Mariehamn,Finland,248,ALA,,,,Developed
 1,World,150,Europe,39,Southern Europe,,,Albania,Republic of Albania,Tirana,,8,ALB,,,,Developed
 1,World,2,Africa,15,Northern Africa,,,Algeria,People's Democratic Republic of Algeria,Algiers,,12,DZA,,,,Developing
-1,World,9,Oceania,61,Polynesia,,,American Samoa,Territory of American Samoa,Pago Pago,United States,16,ASM,,,x,Developing
+1,World,9,Oceania,61,Polynesia,,,American Samoa,Territory of American Samoa,Pago Pago,USA,16,ASM,,,x,Developing
 1,World,150,Europe,39,Southern Europe,,,Andorra,Principality of Andorra,Andorra la Vella,,20,AND,,,,Developed
 1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Angola,Republic of Angola,Luanda,,24,AGO,x,,,Developing
 1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Anguilla,Anguilla,The Valley,United Kingdom,660,AIA,,,x,Developing
@@ -12,7 +12,7 @@
 1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Antigua and Barbuda,Antigua and Barbuda,St. John's,,28,ATG,,,x,Developing
 1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Argentina,Argentine Republic,Buenos Aires,,32,ARG,,,,Developing
 1,World,142,Asia,145,Western Asia,,,Armenia,Republic of Armenia,Yerevan,,51,ARM,,x,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Aruba,Aruba,Oranjestad,Netherlands,533,ABW,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Aruba,Aruba,Oranjestad,The Netherlands,533,ABW,,,x,Developing
 1,World,9,Oceania,53,Australia and New Zealand,,,Australia,Commonwealth of Australia,Canberra,,36,AUS,,,,Developed
 1,World,150,Europe,155,Western Europe,,,Austria,Republic of Austria,Vienna,,40,AUT,,,,Developed
 1,World,142,Asia,145,Western Asia,,,Azerbaijan,Republic of Azerbaijan,Baku,,31,AZE,,x,,Developing
@@ -24,7 +24,7 @@
 1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Belize,Belize,Belmopan,,84,BLZ,,,x,Developing
 1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Benin,Republic of Benin,Porto-Novo,,204,BEN,x,,,Developing
 1,World,19,Americas,21,Northern America,,,Bermuda,Bermuda,Hamilton,United Kingdom,60,BMU,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,BES Islands,"""Bonaire, Sint Eustatius, and Saba""",Kralendijk,Netherlands,535,BES,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,BES Islands,"""Bonaire, Sint Eustatius, and Saba""",Kralendijk,The Netherlands,535,BES,,,x,Developing
 1,World,142,Asia,34,Southern Asia,,,Bhutan,Kingdom of Bhutan,Thimphu,,64,BTN,x,x,,Developing
 1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Bolivia,Plurinational State of Bolivia,La Paz,,68,BOL,,x,,Developing
 1,World,150,Europe,39,Southern Europe,,,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,,70,BIH,,,,Developed
@@ -56,7 +56,7 @@
 1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Côte d’Ivoire,Republic of Côte d'Ivoire,Yamoussoukro,,384,CIV,,,,Developing
 1,World,150,Europe,39,Southern Europe,,,Croatia,Republic of Croatia,Zagreb,,191,HRV,,,,Developed
 1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Cuba,Republic of Cuba,Havana,,192,CUB,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Curaçao,Country of Curaçao,Willemstad,Netherlands,531,CUW,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Curaçao,Country of Curaçao,Willemstad,The Netherlands,531,CUW,,,x,Developing
 1,World,142,Asia,145,Western Asia,,,Cyprus,Republic of Cyprus,Nicosia,,196,CYP,,,,Developed
 1,World,150,Europe,151,Eastern Europe,,,Czechia,Czech Republic,Prague,,203,CZE,,,,Developed
 1,World,150,Europe,154,Northern Europe,,,Denmark,Kingdom of Denmark,Copenhagen,,208,DNK,,,,Developed
@@ -90,7 +90,7 @@
 1,World,19,Americas,21,Northern America,,,Greenland,Greenland,Nuuk,Denmark,304,GRL,,,,Developed
 1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Grenada,Grenada,St. George's,,308,GRD,,,x,Developing
 1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Guadeloupe,Guadeloupe,Basse-Terre,France,312,GLP,,,,Developing
-1,World,9,Oceania,57,Micronesia,,,Guam,Territory of Guam,Hagåtña,United States,316,GUM,,,x,Developing
+1,World,9,Oceania,57,Micronesia,,,Guam,Territory of Guam,Hagåtña,USA,316,GUM,,,x,Developing
 1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Guatemala,Republic of Guatemala,Guatemala City,,320,GTM,,,,Developing
 1,World,150,Europe,154,Northern Europe,830,Channel Islands,Guernsey,Guernsey,St Peter Port,United Kingdom,831,GGY,,,,Developed
 1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Guinea,Republic of Guinea,Conakry,,324,GIN,x,,,Developing
@@ -153,7 +153,6 @@
 1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Namibia,Republic of Namibia,Windhoek,,516,NAM,,,,Developing
 1,World,9,Oceania,57,Micronesia,,,Nauru,Republic of Nauru,Yaren,,520,NRU,,,x,Developing
 1,World,142,Asia,34,Southern Asia,,,Nepal,Federal Democratic Republic of Nepal,Kathmandu,,524,NPL,x,x,,Developing
-1,World,150,Europe,155,Western Europe,,,Netherlands,Kingdom of the Netherlands,Amsterdam,,528,NLD,,,,Developed
 1,World,9,Oceania,54,Melanesia,,,New Caledonia,New Caledonia,Nouméa,,540,NCL,,,x,Developing
 1,World,9,Oceania,53,Australia and New Zealand,,,New Zealand,New Zealand,Wellington,,554,NZL,,,,Developed
 1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Nicaragua,Republic of Nicaragua,Managua,,558,NIC,,,,Developing
@@ -162,7 +161,7 @@
 1,World,9,Oceania,61,Polynesia,,,Niue,Niue,Alofi,,570,NIU,,,x,Developing
 1,World,9,Oceania,53,Australia and New Zealand,,,Norfolk Island,Territory of Norfolk Island,Kingston,Australia,574,NFK,,,,Developed
 1,World,142,Asia,30,Eastern Asia,,,North Korea,Democratic People's Republic of Korea,Pyongyang,,408,PRK,,,,Developing
-1,World,9,Oceania,57,Micronesia,,,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,United States,580,MNP,,,x,Developing
+1,World,9,Oceania,57,Micronesia,,,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,USA,580,MNP,,,x,Developing
 1,World,150,Europe,154,Northern Europe,,,Norway,Kingdom of Norway,Oslo,,578,NOR,,,,Developed
 1,World,142,Asia,145,Western Asia,,,Oman,Sultanate of Oman,Muscat,,512,OMN,,,,Developing
 1,World,142,Asia,34,Southern Asia,,,Pakistan,Islamic Republic of Pakistan,Islamabad,,586,PAK,,,,Developing
@@ -176,7 +175,7 @@
 1,World,9,Oceania,61,Polynesia,,,Pitcairn,"Pitcairn, Henderson, Ducie and Oeno Islands",Adamstown,United Kingdom,612,PCN,,,,Developing
 1,World,150,Europe,151,Eastern Europe,,,Poland,Republic of Poland,Warsaw,,616,POL,,,,Developed
 1,World,150,Europe,39,Southern Europe,,,Portugal,Portuguese Republic,Lisbon,,620,PRT,,,,Developed
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Puerto Rico,Commonwealth of Puerto Rico,San Juan,United States,630,PRI,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Puerto Rico,Commonwealth of Puerto Rico,San Juan,USA,630,PRI,,,x,Developing
 1,World,142,Asia,145,Western Asia,,,Qatar,State of Qatar,Doha,,634,QAT,,,,Developing
 1,World,150,Europe,151,Eastern Europe,,,Republic of Moldova,Republic of Moldova,Chişinau,,498,MDA,,x,,Developed
 1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Réunion,Réunion,Saint-Denis,France,638,REU,,,,Developing
@@ -199,7 +198,7 @@
 1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Seychelles,Republic of Seychelles,Victoria,,690,SYC,,,x,Developing
 1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Sierra Leone,Republic of Sierra Leone,Freetown,,694,SLE,x,,,Developing
 1,World,142,Asia,35,South-eastern Asia,,,Singapore,Republic of Singapore,Singapore,,702,SGP,,,x,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Sint Maarten,Sint Maarten,Philipsburg,Netherlands,534,SXM,,,x,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Sint Maarten,Sint Maarten,Philipsburg,The Netherlands,534,SXM,,,x,Developing
 1,World,150,Europe,151,Eastern Europe,,,Slovakia,Slovak Republic,Bratislava,,703,SVK,,,,Developed
 1,World,150,Europe,39,Southern Europe,,,Slovenia,Republic of Slovenia,Ljubljana,,705,SVN,,,,Developed
 1,World,9,Oceania,54,Melanesia,,,Solomon Islands,Solomon Islands,Honiara,,90,SLB,x,,x,Developing
@@ -220,6 +219,7 @@
 1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Tanzania,United Republic of Tanzania,Dodoma,,834,TZA,x,,,Developing
 1,World,142,Asia,35,South-eastern Asia,,,Thailand,Kingdom of Thailand,Bangkok,,764,THA,,,,Developing
 1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,The Bahamas,Commonwealth of The Bahamas,Nassau,,44,BHS,,,x,Developing
+1,World,150,Europe,155,Western Europe,,,The Netherlands,Kingdom of the Netherlands,Amsterdam,,528,NLD,,,,Developed
 1,World,142,Asia,35,South-eastern Asia,,,Timor-Leste,Democratic Republic of Timor-Leste,Dili,,626,TLS,x,,x,Developing
 1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Togo,Togolese Republic,Lomé,,768,TGO,x,,,Developing
 1,World,9,Oceania,61,Polynesia,,,Tokelau,Tokelau,Nukunonu,,772,TKL,,,,Developing
@@ -234,8 +234,8 @@
 1,World,150,Europe,151,Eastern Europe,,,Ukraine,Ukraine,Kiev,,804,UKR,,,,Developed
 1,World,142,Asia,145,Western Asia,,,United Arab Emirates,United Arab Emirates,Abu Dhabi,,784,ARE,,,,Developing
 1,World,150,Europe,154,Northern Europe,,,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London,,826,GBR,,,,Developed
-1,World,9,Oceania,57,Micronesia,,,United States Minor Outlying Islands,United States Minor Outlying Islands,,United States,581,UMI,,,,Developing
-1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amelie,United States,850,VIR,,,x,Developing
+1,World,9,Oceania,57,Micronesia,,,United States Minor Outlying Islands,United States Minor Outlying Islands,,USA,581,UMI,,,,Developing
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amelie,USA,850,VIR,,,x,Developing
 1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Uruguay,Oriental Republic of Uruguay,Montevideo,,858,URY,,,,Developing
 1,World,19,Americas,21,Northern America,,,USA,United States of America,"""Washington, D.C.""",,840,USA,,,,Developed
 1,World,142,Asia,143,Central Asia,,,Uzbekistan,Republic of Uzbekistan,Tashkent,,860,UZB,,x,,Developing
