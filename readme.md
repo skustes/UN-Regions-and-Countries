@@ -9,11 +9,10 @@ The CSV was downloaded from the UN Statistics Division website at https://unstat
 
 It consists of a file with 249 rows and 15 columns. Each row contains information on a country or area with associated Region, Sub-region, and Intermediate Region information, along with M49 codes, ISO Alpha3 codes, and a several "Other Groupings" such as Least Developed Countries, Landlocked Developing Countries, Developed Countries, Developing Countries, and Small Island Developing States.
 
-To this file, I manually added the official name of the country, the common name of the country, and the capital city.
-Example:
-Common: Ireland
-Official: Republic of Ireland
-Capital: Dublin
+To this file, I manually added the official name of the country, the common name of the country, and the capital city. Example:
+- Common: Ireland
+- Official: Republic of Ireland
+- Capital: Dublin
 
 ## Output
 The data was cleaned and wrangled to create the following dataframes that will be inserted into a relational database:
