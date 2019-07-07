@@ -1,0 +1,32 @@
+region_code,region_name,parent_region_code
+2,Africa,0
+202,Sub-Saharan Africa,2
+11,Western Africa,202
+142,Asia,0
+34,Southern Asia,142
+150,Europe,0
+154,Northern Europe,150
+39,Southern Europe,150
+15,Northern Africa,2
+9,Oceania,0
+61,Polynesia,9
+17,Middle Africa,202
+19,Americas,0
+419,Latin America and the Caribbean,19
+29,Caribbean,419
+0,Antarctica,0
+5,South America,419
+145,Western Asia,142
+53,Australia and New Zealand,9
+155,Western Europe,150
+151,Eastern Europe,150
+13,Central America,419
+21,Northern America,19
+18,Southern Africa,202
+14,Eastern Africa,202
+35,South-eastern Asia,142
+30,Eastern Asia,142
+54,Melanesia,9
+57,Micronesia,9
+830,Channel Islands,154
+143,Central Asia,142

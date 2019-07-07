@@ -15,8 +15,10 @@ To this file, I manually added the official name of the country, the common name
 - Capital: Dublin
 
 ## Output
-The data was cleaned and wrangled to create the following dataframes that will be inserted into a relational database:
+The data was cleaned and wrangled to create the following dataframes:
 - UN Regions: Master table with hierarchy of UN Geoscheme Regions
 - UN Groupings: Master table with the "Other Groupings" to which countries can be assigned
 - Countries to Groups: Junction table to associate Countries to UN Groupings
-- Countries: Master table of UN-recognized countries and areas of the world
+- Countries: Master table of UN-recognized countries and areas of the world (utf-16 encoding to preserve unique characters in a few country names)
+
+These were exported to csv and inserted into a relational database.
