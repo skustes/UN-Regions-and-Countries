@@ -1,6 +1,6 @@
-group_name
-Least Developed Countries
-Landlocked Developing Countries
-Small Island Developing States
-Developed Countries
-Developing Countries
+polity_group_name,polity_group_type
+Least Developed Countries,1
+Landlocked Developing Countries,1
+Small Island Developing States,1
+Developed Countries,1
+Developing Countries,1

@@ -1,32 +1,32 @@
 region_code,region_name,parent_region_code
-2,Africa,0
-19,Americas,0
-9,Oceania,0
-150,Europe,0
-0,Antarctica,0
-142,Asia,0
-15,Northern Africa,2
-202,Sub-Saharan Africa,2
-57,Micronesia,9
-54,Melanesia,9
-61,Polynesia,9
-53,Australia and New Zealand,9
-419,Latin America and the Caribbean,19
-21,Northern America,19
-30,Eastern Asia,142
-35,South-eastern Asia,142
-34,Southern Asia,142
+002,Africa,000
+019,Americas,000
+009,Oceania,000
+150,Europe,000
+999,Antarctica,000
+142,Asia,000
+015,Northern Africa,002
+202,Sub-Saharan Africa,002
+057,Micronesia,009
+054,Melanesia,009
+061,Polynesia,009
+053,Australia and New Zealand,009
+419,Latin America and the Caribbean,019
+021,Northern America,019
+030,Eastern Asia,142
+035,South-eastern Asia,142
+034,Southern Asia,142
 145,Western Asia,142
 143,Central Asia,142
 155,Western Europe,150
 151,Eastern Europe,150
-39,Southern Europe,150
+039,Southern Europe,150
 154,Northern Europe,150
 830,Channel Islands,154
-18,Southern Africa,202
-14,Eastern Africa,202
-17,Middle Africa,202
-11,Western Africa,202
-13,Central America,419
-29,Caribbean,419
-5,South America,419
+018,Southern Africa,202
+014,Eastern Africa,202
+017,Middle Africa,202
+011,Western Africa,202
+013,Central America,419
+029,Caribbean,419
+005,South America,419
